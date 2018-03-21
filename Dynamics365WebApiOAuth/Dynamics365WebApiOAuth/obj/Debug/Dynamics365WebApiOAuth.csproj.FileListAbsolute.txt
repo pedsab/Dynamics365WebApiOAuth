@@ -1,0 +1,12 @@
+C:\Users\pedros\Desktop\Dynamics365WebApiOAuth\Dynamics365WebApiOAuth\bin\Debug\Dynamics365WebApiOAuth.exe.config
+C:\Users\pedros\Desktop\Dynamics365WebApiOAuth\Dynamics365WebApiOAuth\bin\Debug\Dynamics365WebApiOAuth.exe
+C:\Users\pedros\Desktop\Dynamics365WebApiOAuth\Dynamics365WebApiOAuth\bin\Debug\Dynamics365WebApiOAuth.pdb
+C:\Users\pedros\Desktop\Dynamics365WebApiOAuth\Dynamics365WebApiOAuth\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+C:\Users\pedros\Desktop\Dynamics365WebApiOAuth\Dynamics365WebApiOAuth\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.WindowsForms.dll
+C:\Users\pedros\Desktop\Dynamics365WebApiOAuth\Dynamics365WebApiOAuth\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.xml
+C:\Users\pedros\Desktop\Dynamics365WebApiOAuth\Dynamics365WebApiOAuth\obj\Debug\Dynamics365WebApiOAuth.csprojResolveAssemblyReference.cache
+C:\Users\pedros\Desktop\Dynamics365WebApiOAuth\Dynamics365WebApiOAuth\obj\Debug\Dynamics365WebApiOAuth.csproj.CoreCompileInputs.cache
+C:\Users\pedros\Desktop\Dynamics365WebApiOAuth\Dynamics365WebApiOAuth\obj\Debug\Dynamics365WebApiOAuth.exe
+C:\Users\pedros\Desktop\Dynamics365WebApiOAuth\Dynamics365WebApiOAuth\obj\Debug\Dynamics365WebApiOAuth.pdb
+C:\Users\pedros\Desktop\Dynamics365WebApiOAuth\Dynamics365WebApiOAuth\bin\Debug\Newtonsoft.Json.dll
+C:\Users\pedros\Desktop\Dynamics365WebApiOAuth\Dynamics365WebApiOAuth\bin\Debug\Newtonsoft.Json.xml
