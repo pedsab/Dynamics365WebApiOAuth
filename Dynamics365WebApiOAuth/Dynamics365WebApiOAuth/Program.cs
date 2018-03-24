@@ -12,12 +12,12 @@ namespace Dynamics365WebApiOAuth
 {
     class Program
     {
-        public static string dynamics365_baseurl = "";
-        public static string tenantid = "";
-        public static string username = "";
-        public static string password = "";
-        public static string client_id = "";
-        public static string client_secret = "";
+        public static string dynamics365_baseurl = "https://labethom.api.crm2.dynamics.com/";
+        public static string tenantid = "88c6ab5a-c061-429b-8379-3fc56d15fe40";
+        public static string username = "leonardo.castro@labetcrm.onmicrosoft.com";
+        public static string password = "labet@18";
+        public static string client_id = "af8970da-e117-40cc-9d14-39555c623b7f";
+        public static string client_secret = "wMdxTt368Bz8UKNkza1SwFYdz+rANSQR5BMv968q4Rw=";
 
         static void Main(string[] args)
         {
